@@ -14,8 +14,8 @@ public class CompanyController {
     private CompanyService companyService;
 
     @GetMapping(value = "/testing")
-    public String register() {
-        return "Hello";
+    public void createCompany() {
+        companyService.createCompany();
     }
 
 }
