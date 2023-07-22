@@ -15,6 +15,7 @@ public class CompanyController {
 
     @GetMapping(value = "/testing")
     public void createCompany() {
+        System.out.println("hello");
         companyService.createCompany();
     }
 
