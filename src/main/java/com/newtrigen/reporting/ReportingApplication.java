@@ -1,4 +1,4 @@
-package com.hlpower.reporting;
+package com.newtrigen.reporting;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

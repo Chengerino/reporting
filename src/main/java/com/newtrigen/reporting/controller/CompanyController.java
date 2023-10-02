@@ -1,6 +1,6 @@
-package com.hlpower.reporting.controller;
+package com.newtrigen.reporting.controller;
 
-import com.hlpower.reporting.service.CompanyService;
+import com.newtrigen.reporting.service.CompanyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

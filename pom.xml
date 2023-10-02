@@ -8,11 +8,11 @@
 		<version>3.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.hlpower</groupId>
+	<groupId>com.newtrigen</groupId>
 	<artifactId>reporting</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>reporting</name>
-	<description>HL Power Engineering &amp; Trading Reporting</description>
+	<description>Tuition System</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

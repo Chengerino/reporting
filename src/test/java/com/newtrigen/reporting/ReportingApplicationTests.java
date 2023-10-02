@@ -1,4 +1,4 @@
-package com.hlpower.reporting;
+package com.newtrigen.reporting;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

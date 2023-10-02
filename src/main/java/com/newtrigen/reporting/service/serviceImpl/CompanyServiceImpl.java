@@ -1,6 +1,6 @@
-package com.hlpower.reporting.service.serviceImpl;
+package com.newtrigen.reporting.service.serviceImpl;
 
-import com.hlpower.reporting.service.CompanyService;
+import com.newtrigen.reporting.service.CompanyService;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

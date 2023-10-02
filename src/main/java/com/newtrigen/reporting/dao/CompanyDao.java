@@ -1,4 +1,4 @@
-package com.hlpower.reporting.dao;
+package com.newtrigen.reporting.dao;
 
 import org.apache.ibatis.annotations.Mapper;
 
